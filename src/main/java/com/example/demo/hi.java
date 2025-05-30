@@ -1,7 +1,8 @@
 package com.example.demo;
 
 public class hi {
+    //xin chào nha
     public String hi(){
-        return "Xin chào";
+        return "chào xin";
     }
 }
